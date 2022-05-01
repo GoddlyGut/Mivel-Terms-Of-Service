@@ -2,7 +2,7 @@
 This is the terms of service of the Mivel bot.
 
 Terms of Service
-Last updated: December 15th, 2018
+Last updated: May 1st, 2022
 
 These Terms of Service (“Terms,” “ToS”) represent our rules, policy, and guidelines for using our discord bot known as Mivel.
 
